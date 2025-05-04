@@ -1,1 +1,1 @@
-# registration-form-test
+тестирование формы регистрации на сайте https://lm.skillbox.cc/qa_tester/module08/homework1/ , найденые ошибки и пример заполнения баг-репортов
